@@ -13,10 +13,10 @@ An intelligent web-based application for automatic blood cell classification usi
 
 | Role            | Name                          |
 | --------------- | ----------------------------- |
-| **Team Leader** | Rayapudi Anil Kumar           |
-| **Team Member** | Rebba Gopi                    |
-| **Team Member** | Sakhamuri Bharath Chandra Sai |
-| **Team Member** | Sane Sasikala                 |
+| **Team Leader** | Gandham Vinay                 |
+| **Team Member** | Nancharla Vinay kumar         |
+| **Team Member** | Parasa Lahari                 |
+| **Team Member** | Somavarapu Teja Sri           |
 
 ---
 
